@@ -24,6 +24,7 @@ This project recreates the nostalgic snake gameplay with smooth controls, score 
 
 ## 🎯 How to Play
 
+
 - Use **Arrow Keys (↑ ↓ ← →)** to control the snake  
 - Eat the food to grow and increase your score  
 - Avoid colliding with walls or yourself  
